@@ -2413,3 +2413,10 @@ body {
     transition: none !important;
   }
 }
+.hero-visual {
+    background-image: url(https://prtbek.vercel.app/Image.png);
+}
+
+.car-image {
+    background-color: black;
+}
